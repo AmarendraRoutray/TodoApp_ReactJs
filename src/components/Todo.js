@@ -49,3 +49,6 @@ function Todo({todos, completeTodo, removeTodo, updateTodo}) {
 }
 
 export default Todo
+
+// Math.floor(Math.random() * 10000)
+// !todo.text || /^\s*$/.test(todo.text)
